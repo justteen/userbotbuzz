@@ -4,7 +4,7 @@ Telegram UserBot untuk Play Lagu di OS.
 
 ## Deploy Di Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/justteen/userbotbuzz/tree/dev)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/tgvc-userbot/tree/dev)
 
 - Generate Pyrogram session string by
   running [generate-pyrogram-session-string.py](generate-pyrogram-session-string.py)
