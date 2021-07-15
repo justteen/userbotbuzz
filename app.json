@@ -32,6 +32,16 @@
             "description": "Voice Chat Smart Plugin to enable, must be one of: player/channel/recorder/radio",
             "value": "player",
             "required": true
+    },
+    "ALIVE_NAME":{
+                "description": "nama"
+                "value": ""
+                "required": true
+    },
+    "BOT_USERNAME":{
+                "description": "username bot"
+                "value": ""
+                "recorder": "true"
     }
   },
   "buildpacks": [
